@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Luke.AssemblyHotLoad", "Luke.AssemblyHotLoad\Luke.AssemblyHotLoad.csproj", "{1D13EEEF-2501-4ED1-BDBC-6C6FEA41EF3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luke.AssemblyHotLoad.Net45", "Luke.AssemblyHotLoad.Net35\Luke.AssemblyHotLoad.Net45.csproj", "{2338B42C-1ED9-4A64-8493-3D3B0CA8C555}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luke.AssemblyHotLoad.Net45", "Luke.AssemblyHotLoad.Net45\Luke.AssemblyHotLoad.Net45.csproj", "{2338B42C-1ED9-4A64-8493-3D3B0CA8C555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
